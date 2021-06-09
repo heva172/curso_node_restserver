@@ -1,3 +1,3 @@
 # WebServer + RestServer
 
-Recordar de ejecutar ```npm install``` para reconstruir los módulos de Node.
+Para reconstruir los módulos de Node, hay que ejecutar el comando en la terminal ```npm install``` .
